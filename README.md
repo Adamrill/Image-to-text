@@ -6,9 +6,9 @@
 
 # Image to text
 
-Image to text for indonesian and english lenguage
+![ilustration](https://raw.githubusercontent.com/Adamrill/Image-to-text/main/ilustration.png)
 
-![ilustration] (https://github.com/Adamrill/Image-to-text/blob/main/ilustration.png)
+
 ## How to use
 
   Download the notebook
@@ -17,10 +17,3 @@ Image to text for indonesian and english lenguage
   git clone https://github.com/Adamrill/Image-to-text.git
 ```
   Then use in colab or jupyter notebook
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
